@@ -25,6 +25,7 @@ source ~/.zshrc
  * Set opacity to `97%`
  * Set window size to `80x24`
  * Set font size to `14`
+ * Use `Menlo regular` font
  * Install [pure propmpt](https://github.com/sindresorhus/pure)
 
  
