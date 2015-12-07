@@ -22,6 +22,7 @@ source ~/.zshrc
 ## 4. Setup theme
  * Setup [Tomorrow Night Eighties theme](https://github.com/chriskempson/tomorrow-theme). 
  * Set background color to `#17161F`
+ * Set opcaity to `97%`
  * Set window size to `80x24`
  * Set font size to `14`
  * Install [pure propmpt](https://github.com/sindresorhus/pure)
