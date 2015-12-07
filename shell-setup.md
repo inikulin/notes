@@ -8,7 +8,7 @@ brew install zsh
 
 ```
 command -v zsh | sudo tee -a /etc/shells
-sudo chsh -s /usr/local/bin/zsh
+sudo chsh -s /bin/zsh
 ```
 
 ## 3.Enable command highlighting 
