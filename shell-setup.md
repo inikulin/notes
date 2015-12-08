@@ -11,7 +11,12 @@ command -v zsh | sudo tee -a /etc/shells
 sudo chsh -s /bin/zsh
 ```
 
-## 3.Enable command highlighting 
+## 3.Install oh-my-zsh
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+## 4.Enable command highlighting 
 
 ```
 brew install zsh-syntax-highlighting
@@ -19,7 +24,7 @@ echo "source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 source ~/.zshrc
 ```
 
-## 4. Setup theme
+## 5. Setup theme
  * Setup [Tomorrow Night Eighties theme](https://github.com/chriskempson/tomorrow-theme). 
  * Set background color to `#17161F`
  * Set opacity to `97%`
