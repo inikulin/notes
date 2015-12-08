@@ -5,4 +5,4 @@
 * Go to File -> Export -> As Movie and save the video in **full quality**` 
   
 ## 2. Convert to GIF
-Use [screengif](https://github.com/dergachev/screengif) or https://cloudconvert.com/mov-to-gif.
+Use https://github.com/icholy/ttygif
