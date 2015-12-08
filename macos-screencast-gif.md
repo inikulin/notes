@@ -11,3 +11,5 @@ Use https://github.com/icholy/ttygif
 ## 2. Convert to 
 Use [screengif](https://github.com/dergachev/screengif) or https://cloudconvert.com/mov-to-gif.
 
+# Awesome online gif editor
+http://ezgif.com/
