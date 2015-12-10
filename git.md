@@ -1,10 +1,4 @@
-## Delete tag
-Local:
-```
-git tag -d <tag>
-```
-
-Remote:
+## Delete remote tag
 ```
 git push --delete origin <tag>
 ```
