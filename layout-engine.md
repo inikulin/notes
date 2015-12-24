@@ -13,3 +13,4 @@ http://www.w3.org/Style/CSS/specs.en.html
 
 ## Modules
 - https://github.com/nodebox/opentype.js - fonts
+- https://github.com/DmitryBaranovskiy/raphael/blob/master/dev/raphael.core.js#L1592 - path to bbox
