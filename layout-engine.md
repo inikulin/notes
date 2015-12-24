@@ -10,3 +10,6 @@ https://github.com/servo/servo/wiki
 
 ## Specs
 http://www.w3.org/Style/CSS/specs.en.html
+
+## Modules
+- https://github.com/nodebox/opentype.js - fonts
