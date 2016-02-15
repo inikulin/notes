@@ -1,6 +1,7 @@
 ## Articles
 - http://taligarsiel.com/Projects/howbrowserswork1.htm
 - http://limpet.net/mbrubeck/2014/09/08/toy-layout-engine-5-boxes.html
+- https://aerotwist.com/blog/the-anatomy-of-a-frame/
 
 ## Videos
 https://www.youtube.com/watch?v=a2_6bGNZ7bA
