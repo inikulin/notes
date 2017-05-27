@@ -1,2 +1,3 @@
 - https://rreverser.com/reducing-test-cases-for-javascript-tooling/ - code reduction for bug reproduction
 - https://ln.hixie.ch/?start=1138169545&count=1 - AAA history
+- https://software.hixie.ch/utilities/js/live-dom-viewer/ - DOM viewer
