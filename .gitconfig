@@ -4,3 +4,8 @@
 	ph = push
 	pf = push --force
 	st = status
+	aa = add .
+	au = add -u
+[user]
+	name = inikulin
+	email = ifaaan@gmail.com
