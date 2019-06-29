@@ -3,3 +3,4 @@
 	ca = commit --amend --date=now
 	ph = push
 	pf = push --force
+	st = status
